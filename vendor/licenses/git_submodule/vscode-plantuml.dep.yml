@@ -1,6 +1,6 @@
 ---
 name: vscode-plantuml
-version: a151047641c224772d6553d98ccfe1b60483c60a
+version: 7bc1758ed73dc269f5721d78c6c6c01f461d7cb0
 type: git_submodule
 homepage: https://github.com/qjebbs/vscode-plantuml
 license: mit
